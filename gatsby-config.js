@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: `TechTalk`,
-    description: `Let's talk tech!`,
+    title: `TechWrites`,
+    description: `Let's write tech!`,
     author: `@gatsbyjs`,
     siteUrl: `https://gatsbystarterdefaultsource.gatsbyjs.io/`,
   },
